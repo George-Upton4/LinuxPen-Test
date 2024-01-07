@@ -17,7 +17,7 @@ found vulnerabilities and how to eliminate them.
 
 <h2>Environments Used </h2>
 
-- <b>Linux</b> (21H2)
+- <b>Linux</b>
 - <b>Kali Linux</b>
 
 <!--
