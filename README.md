@@ -1,6 +1,6 @@
 <h1>Linux Penetration Testing Report</h1>
 
- ### [Report]()
+ ### [Report](https://github.com/George-Upton4/LinuxPen-Test/blob/main/Project%201%20Report.pdf)
 
 <h2>Description</h2>
 In this report, I conducted a penetration test on a vulnerable Linux server machine using Kali Linux and its SIEM Tools. Upon finding two vulnerabilities, I reported the findings along with step-by-step walkthroughs of how I
